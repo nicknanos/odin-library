@@ -124,6 +124,17 @@ button.add:active {
     border: 3px solid var(--dark-accent-color)
 }
 
+@media only screen and (max-width: 600px) {
+    #book-form {
+        width: 100%;
+    }
+
+    button.add {
+        width: 100%;
+    }
+}
+
+
 .book-form {
     width: 100%;
     display: flex;
