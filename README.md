@@ -1,1 +1,1 @@
-# odin-library
+# Simple Book Library App
